@@ -11,7 +11,7 @@
     background-repeat: no-repeat;
     text-align: center;
     background-position: center;
-    color: ;
+    color: white;
 }
 #logo{
   margin-top:10%;
@@ -36,7 +36,7 @@
   background-position: center; 
   height:auto;
   width:98%;
-  margin-bottom: 5%;
+  margin-bottom: 2%;
   margin-left: auto;
   margin-right: auto;
   color: white;
@@ -45,16 +45,22 @@
   margin-top: 7%;
 }
 #Services p{
-  margin-bottom: 7%;
+  margin-bottom: 5%;
 }
 #wwd{
-  margin-top: 0%;
+  margin-right:auto;
+  margin-left:auto;
+  image-orientation: center;
+  text-align: center;
 }
+
 #what-we-do {
   width: 100%;
   text-align:center;
-  margin-bottom:5%;
-  margin-top: 0%;
+  margin-bottom: 2%;
+}
+.col-md-4 h5{
+  margin-top: 3%;
 }
 #design{
   text-align:center;
