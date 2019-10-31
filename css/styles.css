@@ -1,85 +1,94 @@
-@import url('bootstrap.css');
+@import url("bootstrap.css");
 
-*{
+* {
   margin: 0;
   padding: 0;
 }
 
-.header-section{
-    background-image: url("../images/backgrounds/h_img.jpg");
-    background-size: cover;
-    background-repeat: no-repeat;
-    text-align: center;
-    background-position: center;
-    color: white;
+.header-section {
+  background-image: url("../images/backgrounds/h_img.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  text-align: center;
+  background-position: center;
+  color: white;
 }
-#logo{
-  margin-top:10%;
-  margin-right:auto;
-  margin-left:auto;
-  margin-bottom:5%;
+#logo {
+  margin-top: 10%;
+  margin-right: auto;
+  margin-left: auto;
+  margin-bottom: 5%;
 }
-#mouseclick{
-  margin-top:6%;
+#mouseclick {
+  margin-top: 6%;
   margin-bottom: 2%;
 }
-#About{
+#About {
   text-align: center;
   margin-top: 4%;
   margin-bottom: 4%;
-
 }
-#Services{
+#Services {
   background-image: url("../images/backgrounds/s_image.jpg");
   background-size: cover;
   text-align: center;
-  background-position: center; 
-  height:auto;
-  width:98%;
+  background-position: center;
+  height: auto;
+  width: 98%;
   margin-bottom: 2%;
   margin-left: auto;
   margin-right: auto;
   color: white;
 }
-#Services h2{
+#Services h2 {
   margin-top: 7%;
 }
-#Services p{
+#Services p {
   margin-bottom: 5%;
 }
-#wwd{
-  margin-right:auto;
-  margin-left:auto;
+#wwd {
+  margin-right: auto;
+  margin-left: auto;
   image-orientation: center;
   text-align: center;
 }
 
 #what-we-do {
   width: 100%;
-  text-align:center;
+  text-align: center;
   margin-bottom: 2%;
 }
-.col-md-4 h5{
+.col-md-4 h5 {
   margin-top: 3%;
 }
-#design{
-  text-align:center;
+#design {
+  text-align: center;
 }
-#dev{
-  text-align:center;
+#dev {
+  text-align: center;
 }
-#dev h5{
-  margin-top:7%;
+#dev h5 {
+  margin-top: 7%;
 }
-#product{
-  text-align:center;
+#product {
+  text-align: center;
 }
-#design p{
+#design p {
   display: none;
 }
-#dev p{
+#dev p {
   display: none;
 }
-#product p{
+#product p {
   display: none;
+}
+#pf {
+  text-align: center;
+  margin-top: 5%;
+}
+.col-md-3 img {
+  width: 98%;
+}
+#portfoliobottom {
+  margin-top: 2%;
 }
