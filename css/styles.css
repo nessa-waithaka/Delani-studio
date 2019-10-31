@@ -1,1 +1,13 @@
 @import url('bootstrap.css');
+*{
+margin:0 ;
+padding: 0;
+}
+
+.header-section{
+    background-image: url("../images/backgrounds/h_img.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    background-position: center;
+}
