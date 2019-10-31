@@ -68,6 +68,18 @@
 #dev{
   text-align:center;
 }
+#dev h5{
+  margin-top:7%;
+}
 #product{
   text-align:center;
+}
+#design p{
+  display: none;
+}
+#dev p{
+  display: none;
+}
+#product p{
+  display: none;
 }
