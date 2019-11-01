@@ -92,3 +92,61 @@
 #portfoliobottom {
   margin-top: 2%;
 }
+.col-md-3:hover {
+  opacity: 0.5;
+}
+#contacts {
+  background-image: url("../images/backgrounds/c_image.jpg");
+  background-size: cover;
+  text-align: center;
+  background-position: center;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+  color: white;
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+#contactUs {
+  margin-right: auto;
+  margin-left: auto;
+}
+
+form input {
+  width: 36%;
+  background: transparent;
+  border-radius: 50px;
+}
+form textarea {
+  background: transparent;
+  border: 1px solid white;
+  color: white;
+  transition: all 0.4s ease;
+  margin-top: 25px;
+  margin-bottom: 4%;
+  width: 65%;
+}
+
+::placeholder {
+  color: whitesmoke;
+}
+
+form input:focus,
+textarea:focus {
+  background: linear-gradient(to right, lightgrey, white);
+  color: black;
+  transform: scale(1);
+  border: transparent;
+}
+form input[type="submit"] {
+  color: whitesmoke;
+  background: rgb(224, 163, 82);
+  margin-bottom: 3%;
+  border-radius: 50px;
+  font-size: 1.5em;
+}
+form input[type="submit"]:hover {
+  background: silver;
+  border-radius: 35px;
+  outline: none;
+}
