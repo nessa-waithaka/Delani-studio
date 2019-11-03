@@ -95,6 +95,38 @@
 .col-md-3:hover {
   opacity: 0.5;
 }
+.col-md-3 #p1 {
+  display: none;
+  color: orangered;
+}
+.col-md-3 #p2 {
+  display: none;
+  color: orangered;
+}
+.col-md-3 #p3 {
+  display: none;
+  color: orangered;
+}
+.col-md-3 #p4 {
+  display: none;
+  color: orangered;
+}
+.col-md-3 #p5 {
+  display: none;
+  color: orangered;
+}
+.col-md-3 #p6 {
+  display: none;
+  color: orangered;
+}
+.col-md-3 #p7 {
+  display: none;
+  color: orangered;
+}
+.col-md-3 #p8 {
+  display: none;
+  color: orangered;
+}
 #contacts {
   background-image: url("../images/backgrounds/c_image.jpg");
   background-size: cover;
