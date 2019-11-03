@@ -12,8 +12,9 @@ The Delani Studio project is a website created using JavaScript, JQuery and basi
 
 ## Screenshots
 
-![SCREENSHOT]
-![SCREENSHOT]
+![SCREENSHOT](images/Screenshots/Screenshot1.png)
+![SCREENSHOT](images/Screenshots/Screenshot2.png)
+![SCREENSHOT](images/Screenshots/Screenshot3.png)
 
 ## Setup/Installation Requirements
 
